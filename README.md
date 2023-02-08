@@ -7,7 +7,7 @@ A CS student in HITsz. Member of [HITsz LUG](https://github.com/hitszlug).
 Please contact me in English | 中文. 
 
 Social media:
-[![telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SoraShu)
+[![telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SoraShuCaina)
 [![bilibili](https://img.shields.io/badge/bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/356026906)
 [![github](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoraShu)
 
