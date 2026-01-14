@@ -1,15 +1,17 @@
 <h1 align="center">Hi, I'm SoraShu</h1>
 
-A CS student in HITsz. Member of [HITsz LUG](https://github.com/hitszlug). 
+## About Me
 
-![User Stat](https://github-readme-stats.vercel.app/api?username=SoraShu&count_private=true&theme=github_dark&show_icons=true)
+- 2024 - Now: Master's student in Computer Science at [@KTH](https://github.com/KTH)
+- 2020 - 2024: Undergraduate student in CSE at [HITSZ](https://www.hitsz.edu.cn/)
+- Founder, former core member and ops of [@hitszosa](https://github.com/hitszosa)
 
-Please contact me in English | 中文. 
+## How to Reach Me
 
-Social media:
-[![telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SoraShuCaina)
-[![bilibili](https://img.shields.io/badge/bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/356026906)
-[![github](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoraShu)
+- me@sorashu.moe
+- Please contact me in English or 中文.
 
-Email: [![outlook](https://img.shields.io/badge/sorashu@outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
-)](mailto://sorashu@outlook.com)
+For more information, please visit my personal blog -> [blog.sorashu.moe](https://blog.sorashu.moe)
+
+
+![User Stat](https://stats.sorashu.moe/api?username=SoraShu&count_private=true&show_icons=true)
